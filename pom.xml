@@ -24,7 +24,7 @@
 				<version>2.1.1</version>
 			</plugin>
 		</plugins>
-		<finalName>hello</finaName>
+		<finalName>hello</finalName>
 	</build>
 
 </project>
